@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rojasael
+- 👋 Hi, I’m Angel Rojas Kingland @rojasael
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science
